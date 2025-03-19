@@ -21,7 +21,7 @@ The dataset contains key details about top-rated movies, including:
 ### **2️ Exploratory Data Analysis AND Visualization**
 - Examined the latest and earliest year.
 - Classified the movies into Year range.
-- Created **Bar graph** to understand the distribution of top rated movies along year range.
+- Created a **bar graph** to visualize the distribution of top-rated movies across different year ranges.
 - Found the **Top 5** popular movies from the dataset for every decade.
 - Understood how the the popularity changes over time.
 
