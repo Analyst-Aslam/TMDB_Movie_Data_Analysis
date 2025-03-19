@@ -51,7 +51,7 @@ The dataset contains key details about top-rated movies, including:
 ##  How to Run the Project
 ### **1️ Install Required Libraries**
 ```bash
-pip install pandas numpy matplotlib seaborn
+pip install pandas matplotlib seaborn
 ```
 ### **2️ Open Jupyter Notebook**
 ```bash
