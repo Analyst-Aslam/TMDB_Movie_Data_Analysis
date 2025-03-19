@@ -58,9 +58,9 @@ pip install pandas numpy matplotlib seaborn
 jupyter notebook
 ```
 ### **3️ Run the Notebook**
-Download the Dataset.
-Change the Dataset directory to the location of the dataset.
-Execute each cell sequentially to load the dataset and perform the analysis.
+- Download the Dataset.
+- Change the Dataset directory to the location of the dataset.
+- Execute each cell sequentially to load the dataset and perform the analysis.
 
 ##  Conclusion
 This analysis provides valuable insights into trends in popularity and release patterns within the movie industry. 
